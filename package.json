@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "ts-node 03-functions-interface/03-interface-vs-types.ts"
+    "start": "ts-node 06-advanced-types/01-utility-types.ts"
   },
   "author": "",
   "license": "ISC",
