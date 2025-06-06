@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "ts-node 06-advanced-types/01-utility-types.ts"
+    "start": "ts-node 07-namespaces-decorators/02-decorators.ts"
   },
   "author": "",
   "license": "ISC",
